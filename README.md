@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasthoennes
 - 👀 I’m interested in Python, HTML/CSS/JS, SQL
-- 🌱 I’m currently learning website development
+- 🌱 I’m currently learning source control
 - 💞️ I’m looking to collaborate on Debian projects
 - 📫 How to reach me www.lthoennes.com
 - 😄 Pronouns: he/him
