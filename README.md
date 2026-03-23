@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Debian projects
 - 📫 How to reach me www.lthoennes.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: my first programming language was qBasic on my C-128
+- ⚡ Fun fact: my first computer was a Commodore 128
 
 <!---
 lucasthoennes/lucasthoennes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
